@@ -1,14 +1,13 @@
-# Hi! I'm Alejandra 👋  
+# Hi! I'm Ahias 👋  
 
 **`Developer`**
 >## 🚀 About me
 >- Welcome, my name is Ahias Gimenez, I'm 17 years old, and I'm a Bolivian passionate about creating innovative solutions and impactful digital experiences. I believe technology can transform the world, and I'm always seeking new challenges to develop my skills and contribute creative solutions.
 ----
 ### 🎓Experience: 
-Currently, I work at Bosch Campinas in the digital solutions area, where I apply and enhance my technology skills.
+Currently, I apply and enhance my technology skills.
  - IT Technician at UNASP
  - Bachelor's degree in Information Systems
- - Systems Development Technician at SENAI
 - 🏆 Academic medalist and essay contest winner.
 
 ### 🌍 Languages:
@@ -17,13 +16,14 @@ Currently, I work at Bosch Campinas in the digital solutions area, where I apply
  - Basic English.
 
 ### Soft Skills:
- - Proactivity, communication, teamwork;
  - Organization, analytical thinking, responsibility, commitment;
- - Creativity, adaptability, empathy, and flexibility.
  - Passionate about learning
+ - Creativity, adaptability, empathy, and flexibility.
+ - Proactivity, communication, teamwork;
 ----
 ### Projects
-Founder of **Schoolly**, an online school planner website. Link to acess: https://www.projetomed.com.br/TECTI/2024/3TIA/grupo03/Schoolly
+Founder of **Schoolly**, an online school planner website. Link to acess site: https://www.projetomed.com.br/TECTI/2025/gp23/mutualize
+Link to acess app: https://www.projetomed.com.br/TECTI/2025/gp23/mutualize/app
 
 ### 🖥️ Technologies and Tools:  
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -48,7 +48,7 @@ Founder of **Schoolly**, an online school planner website. Link to acess: https:
 #
 
 <h1 align="center"> Ativity </h1>
-<a href="https://github.com/Ale-Gimenez">
+<a href="https://github.com/ahiasgim">
   
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Gimenez&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 <img  align="right" width= "370px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Gimenez&theme=tokyonight&layout=pie&include_all_commits=true" />

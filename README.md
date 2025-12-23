@@ -41,8 +41,8 @@ Link to acess app: https://www.projetomed.com.br/TECTI/2025/gp23/mutualize/app
 
 # Contact: 
 <div> 
-  <a href="https://www.linkedin.com/in/alejandra-gim%C3%A9nez-a76b4828a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alemichgimenez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ahiasgim%C3%A9nez-a76b4828a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ahias.gim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 #
@@ -51,7 +51,7 @@ Link to acess app: https://www.projetomed.com.br/TECTI/2025/gp23/mutualize/app
 <a href="https://github.com/ahiasgim">
   
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Gimenez&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<img  align="right" width= "370px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Gimenez&theme=tokyonight&layout=pie&include_all_commits=true" />
+<img  align="right" width= "370px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ahiasgim&theme=tokyonight&layout=pie&include_all_commits=true" />
 
 ---
 

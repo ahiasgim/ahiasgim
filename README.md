@@ -22,7 +22,9 @@ Currently, I apply and enhance my technology skills.
  - Proactivity, communication, teamwork;
 ----
 ### Projects
-Founder of **Schoolly**, an online school planner website. Link to acess site: https://www.projetomed.com.br/TECTI/2025/gp23/mutualize
+Founder of **Schoolly**, an online school planner website. 
+Link to acess site: https://www.projetomed.com.br/TECTI/2025/gp23/mutualize
+
 Link to acess app: https://www.projetomed.com.br/TECTI/2025/gp23/mutualize/app
 
 ### 🖥️ Technologies and Tools:  
